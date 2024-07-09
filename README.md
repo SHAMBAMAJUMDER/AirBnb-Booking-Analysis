@@ -1,5 +1,4 @@
 # AirBnb-Booking-Analysis
-EDA on AirBnb Booking Analysis
 Project Overview
 This project aims to analyze the Airbnb listings in New York City for the year 2019. The dataset contains comprehensive details about each listing, including location, pricing, availability, and reviews. The primary goal is to derive insights into the rental market, understand host behavior, and identify factors that influence pricing and occupancy.
 
@@ -25,4 +24,3 @@ Evaluate the model's performance and refine it for better accuracy.
 Insights and Recommendations:
 
 Provide actionable insights for hosts to optimize their listings.
-Identify trends in the Airbnb market that could inform future investments and policies.
